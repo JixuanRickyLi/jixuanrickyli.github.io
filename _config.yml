@@ -5,9 +5,9 @@ header-img: img/post-bg-re-vs-ng2.jpg
 email: jixuanli1230@yahoo.com
 description: "I am not a Newbee!!!"
 keyword: "test blog"
-url: "http://jixuanrickyli.github.io"          # your host, for absolute URL
+url: "http://ricky-j-li.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/name/jixuanrickyli.github.io.git" # you code repository
+github_repo: "https://github.com/name/ricky-j-li.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/R_avatar.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     暂无
 zhihu_username:     ricky1230
-github_username:    jixuanrickyli
+github_username:    ricky-j-li
 facebook_username:  li.ricky.583
 jianshu_username:   暂无
 #twitter_username:   暂无
