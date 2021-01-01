@@ -1,6 +1,6 @@
 # Site settings
 title: Ricky's Blog
-SEOTitle: Ricky J.L. | Codelog
+SEOTitle: Ricky J.L.'s codelog | I am not a Newbee!!
 header-img: img/post-bg-re-vs-ng2.jpg
 email: jixuanli1230@yahoo.com
 description: "I am not a Newbee!!!"
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     ricky1230
 github_username:    ricky-j-li
 facebook_username:  li.ricky.583
-jianshu_username:   暂无
+#jianshu_username:   暂无
 #twitter_username:   暂无
 
 
@@ -95,8 +95,8 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+#    {
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
 ]
