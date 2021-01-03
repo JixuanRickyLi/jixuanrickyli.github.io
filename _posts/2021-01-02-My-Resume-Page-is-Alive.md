@@ -12,5 +12,4 @@ tags:
 ---
 
 # Finally, My Resume Page is deployed!
-
 [You can get access to it from here! ](https://ricky-j-li.github.io/resume-page/#home)

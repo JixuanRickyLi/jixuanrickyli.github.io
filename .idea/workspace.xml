@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86a1075-cff7-4a48-b641-939c68d2f01a" name="Default Changelist" comment="" />
+    <list default="true" id="d86a1075-cff7-4a48-b641-939c68d2f01a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-01-02-Data-structures-Primitive-types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-01-02-原码反码补码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-02-My-Resume-Page-is-Alive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-02-My-Resume-Page-is-Alive.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +47,8 @@
       <updated>1609527657071</updated>
       <workItem from="1609527658214" duration="4920000" />
       <workItem from="1609612145144" duration="122000" />
+      <workItem from="1609624383984" duration="713000" />
+      <workItem from="1609634862967" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="Basic settings">
       <created>1609528088745</created>
@@ -139,6 +146,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1609530352063" />
+    <state x="144" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609636967278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="144" y="337" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1609636967278" />
     <state x="449" y="24" key="CommitChangelistDialog2" timestamp="1609537140110">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -165,5 +176,9 @@
     </state>
     <state x="560" y="258" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1609537145405" />
     <state x="560" y="258" key="Vcs.Push.Dialog.v2/1920.25.1920.1055/0.0.1920.1080@0.0.1920.1080" timestamp="1609536774344" />
+    <state x="625" y="249" width="670" height="676" key="search.everywhere.popup" timestamp="1609635918871">
+      <screen x="0" y="25" width="1920" height="1012" />
+    </state>
+    <state x="625" y="249" width="670" height="676" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.1012@0.25.1920.1012" timestamp="1609635918871" />
   </component>
 </project>
