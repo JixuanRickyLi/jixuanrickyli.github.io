@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d86a1075-cff7-4a48-b641-939c68d2f01a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-01-02-Data-structures-Primitive-types.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-01-02-原码反码补码.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-02-My-Resume-Page-is-Alive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-02-My-Resume-Page-is-Alive.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,9 @@
       <workItem from="1609612145144" duration="122000" />
       <workItem from="1609624383984" duration="713000" />
       <workItem from="1609634862967" duration="2578000" />
+      <workItem from="1609646767057" duration="791000" />
+      <workItem from="1609943711735" duration="57000" />
+      <workItem from="1610218149154" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="Basic settings">
       <created>1609528088745</created>
