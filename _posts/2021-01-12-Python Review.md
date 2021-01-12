@@ -1,3 +1,16 @@
+---
+layout:     post
+title:     Python Review
+subtitle:   
+date:       2021-01-12
+author:     R.
+header-img: 
+catalog: true
+tags:
+    - Python
+    - Interview
+---
+
 
 # Python Review  
 <hr/>
